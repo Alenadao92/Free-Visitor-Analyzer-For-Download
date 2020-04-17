@@ -1,4 +1,6 @@
 # Visitor-Analyzer
+Deliver digital analysis to brick-and-motar world by the power of facial recognition technology. Free [Visitor Analyzer App](https://gigasource.io/visitor-analyzer/) For Download
+![Visitor Analyzer](https://gigasource.b-cdn.net/wp-content/uploads/2020/01/visitor-advertising.png)
 ## A complete visitor tracking and analyzing solution
 Deliver digital analysis to brick-and-motar world by the power of facial recognition technology
 ## Visitor Counting
@@ -9,6 +11,7 @@ Know how long your customers spend on viewing your products.
 Precisely categorize your customers’ gender.
 ## Age detection
 Estimate the age of customers as they are approaching. Determine if your products actually attracts the intended audiences or not.
+![Visitor Analyzer App](https://gigasource.b-cdn.net/wp-content/uploads/2020/01/visitor-retail2.png)
 ## Advanced reporting
 Provide custom reports in a variety of formats and options.
 ## Retention counting
