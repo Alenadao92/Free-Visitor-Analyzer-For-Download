@@ -3,12 +3,9 @@ Deliver digital analysis to brick-and-motar world by the power of facial recogni
 ![Visitor Analyzer](https://gigasource.b-cdn.net/wp-content/uploads/2020/01/visitor-advertising.png)
 ## A complete visitor tracking and analyzing solution
 Deliver digital analysis to brick-and-motar world by the power of facial recognition technology
-## Visitor Counting
-Accurately obtain people counting data in your store and optimize your management decisions.
-## View Time Tracking
-Know how long your customers spend on viewing your products.
-## Gender detection
-Precisely categorize your customers’ gender.
+- Visitor Counting
+- View Time Tracking
+- Gender detection
 ## Age detection
 Estimate the age of customers as they are approaching. Determine if your products actually attracts the intended audiences or not.
 ![Visitor Analyzer App](https://gigasource.b-cdn.net/wp-content/uploads/2020/01/visitor-retail2.png)
